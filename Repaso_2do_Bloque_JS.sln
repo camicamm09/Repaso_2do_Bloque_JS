@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso_2do_Bloque_JS", "Repaso_2do_Bloque_JS.csproj", "{CD3FAFD1-60DD-4648-8F82-8F32678B5DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3FAFD1-60DD-4648-8F82-8F32678B5DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3FAFD1-60DD-4648-8F82-8F32678B5DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3FAFD1-60DD-4648-8F82-8F32678B5DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3FAFD1-60DD-4648-8F82-8F32678B5DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03898ED4-8D0A-492A-8BC1-AF1FB112A007}
+	EndGlobalSection
+EndGlobal
